@@ -2,7 +2,7 @@
     <head></head>
     <body>
         <?php
-            echo "hello earthlings";
+            echo "logo";
         ?>
     </body>
 </html>
