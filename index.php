@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>INF354_HW12</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -18,7 +18,12 @@
     <![endif]-->
   </head>
   <body>
+     <h1><?php echo "Group Members"?></h1>
     <h1><?php echo "Student Number: u10668544 (Tsepo Ntsaba)"?></h1>
+    <h1><?php echo "Student Number: u11035804 (Khuliso Peter Mutengwe)"?></h1>
+    <h1><?php echo "Student Number: u10558064 (Zosisiza Hlengwe)"?></h1>
+    <h1></h1>
+     <h1>Answers</h1>
     <h1><?php echo "Output: Hello world!"?></h1>
     <h1><?php echo "Programming Langauge: C++"?></h1>
 
